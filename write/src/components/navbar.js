@@ -4,9 +4,10 @@ const NavBar = () => {
   return (
     <div className="navbar-container">
       <div className="navbar">
-        <span>Picture</span>
-        <span>Picture</span>
-        <button className="btn-basic">Preview</button>
+        <span className="logo-wrapper">write</span>
+        <span>Random Dude</span>
+        <button className="btn btn-m">preview</button>
+        <button className="btn btn-l">save and download</button>
       </div>
     </div>
   );
