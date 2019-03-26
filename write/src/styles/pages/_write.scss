@@ -1,0 +1,15 @@
+.writer-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-field {
+  outline: none;
+  resize: none;
+  width: 50vw;
+  height: 60vh;
+  font-size: 1.5rem;
+  //border: none;
+}
